@@ -1,0 +1,18 @@
+# Ide specific
+.project
+.classpath
+.settings
+.idea
+
+# general files to ignore
+*.class
+*.log
+dist/*
+target/
+
+doc/
+*.swp
+*~
+.DS_Store
+.secret
+*~
